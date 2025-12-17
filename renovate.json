@@ -2,9 +2,6 @@
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
   "extends": ["config:recommended"],
   "gitAuthor": "Renovate Bot <bot@renovateapp.com>",
-  "onboarding": false,
-  "requireConfig": "optional",
-  "autodiscover": false,
   "prConcurrentLimit": 0,
   "prHourlyLimit": 0
 }
