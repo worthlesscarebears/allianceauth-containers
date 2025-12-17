@@ -55,7 +55,7 @@ allianceauth-translate-tool @ git+https://github.com/OrangeDrangon/allianceauth-
 allianceauth-corptools-pinger == 0.6.2
 
 # ZKillboard Bot https://pypi.org/project/aa-killtracker/
-aa-killtracker == 1.2.0
+aa-killtracker ==1.2.1
 
 # https://pypi.org/project/aa-secret-santa/#description
 aa-secret-santa == 1.0.1
