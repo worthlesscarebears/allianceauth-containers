@@ -28,7 +28,7 @@ jobs:
           echo "repo_lc=$REPO_LC" >> $GITHUB_OUTPUT
   
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
 
       - name: Log in to GitHub Container Registry
         uses: docker/login-action@v3
