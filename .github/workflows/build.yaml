@@ -46,4 +46,4 @@ jobs:
           push: true
           tags: |
             ghcr.io/${{ steps.vars.outputs.owner_lc }}/${{ steps.vars.outputs.repo_lc }}/auth:latest
-            ${{ steps.vars.outputs.owner_lc }}/${{ steps.vars.outputs.repo_lc }}/auth:${{ github.sha }}
+            ghcr.io/${{ steps.vars.outputs.owner_lc }}/${{ steps.vars.outputs.repo_lc }}/auth:${{ github.sha }}
