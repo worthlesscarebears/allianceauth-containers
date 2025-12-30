@@ -51,3 +51,5 @@ jobs:
           push: true
           tags: |
             ghcr.io/${{ steps.vars.outputs.owner_lc }}/${{ steps.vars.outputs.repo_lc }}/auth:latest
+          cache-from: type=registry,ref=ghcr.io/${{ steps.vars.outputs.owner_lc }}/${{ steps.vars.outputs.repo_lc }}/auth:buildcache
+          cache-to: type=registry,ref=ghcr.io/${{ steps.vars.outputs.owner_lc }}/${{ steps.vars.outputs.repo_lc }}/auth:buildcache,mode=max
