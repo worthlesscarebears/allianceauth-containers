@@ -27,7 +27,7 @@ aa-package-monitor == 2.3.0
 allianceauth-blacklist == 0.1.1
 
 # https://pypi.org/project/allianceauth-afat/
-allianceauth-afat ==4.2.1
+allianceauth-afat == 4.3.2
 
 # https://pypi.org/project/allianceauth-discordbot/
 #allianceauth-discordbot == 4.1.0
@@ -67,7 +67,7 @@ cmStructureRegistry == 0.9951
 cmShoppingList == 0.21
 
 # https://pypi.org/project/allianceauth-georgeforge/
-allianceauth-georgeforge[discord,webhook] == 0.4.4
+allianceauth-georgeforge[discord,webhook] == 0.4.5
 ## Georgeforge-dev deps
 django-eveonline-sde @ git+https://github.com/Solar-Helix-Independent-Transport/django-eveonline-sde.git@ae13eb6ad1231d9683d6d6f6223521c59ae63a2c
 django-modeltranslation ==0.19.17
