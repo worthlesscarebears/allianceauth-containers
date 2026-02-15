@@ -1,6 +1,6 @@
 # https://pypi.org/project/allianceauth-corptools/
-# allianceauth-corptools == 2.15.2
-allianceauth-corptools @ git+https://github.com/Solar-Helix-Independent-Transport/allianceauth-corp-tools.git@3.0.0b5
+allianceauth-corptools == 3.0.0b5
+# allianceauth-corptools @ git+https://github.com/Solar-Helix-Independent-Transport/allianceauth-corp-tools.git@3.0.0b5
 
 # https://pypi.org/project/aa-esi-status/
 aa-esi-status == 3.3.2
