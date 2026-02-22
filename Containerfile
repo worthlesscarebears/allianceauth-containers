@@ -1,4 +1,4 @@
-FROM registry.gitlab.com/allianceauth/allianceauth/auth:v4.12.0@sha256:eda6750c9a681fdee070e259671a07cd9a7fed788a22141c809e80b902ba82e6
+FROM registry.gitlab.com/allianceauth/allianceauth/auth:v4.13.0@sha256:08a61d63b1f2ad60e04f00fe3f59b0e791b0e2e6b80189992b5a97e43c592b8a
 
 WORKDIR ${AUTH_HOME}
 
