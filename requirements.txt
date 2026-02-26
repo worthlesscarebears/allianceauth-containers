@@ -35,7 +35,7 @@ allianceauth-discordbot @ git+https://github.com/Solar-Helix-Independent-Transpo
 #allianceauth-discordbot @ git+https://github.com/nullsecurity-australia/allianceauth-discordbot.git@development
 
 # https://pypi.org/project/allianceauth-celeryanalytics/
-allianceauth-celeryanalytics == 0.0.7
+allianceauth-celeryanalytics ==0.0.8
 
 # https://pypi.org/project/allianceauth-corptools-moons/
 allianceauth-corptools-moons == 1.0.1
