@@ -1,5 +1,5 @@
 # https://pypi.org/project/allianceauth-corptools/
-allianceauth-corptools == 3.0.0b5
+allianceauth-corptools ==3.0.0b8
 # allianceauth-corptools @ git+https://github.com/Solar-Helix-Independent-Transport/allianceauth-corp-tools.git@3.0.0b5
 
 # https://pypi.org/project/aa-esi-status/
@@ -35,7 +35,7 @@ allianceauth-discordbot == 5.0.0
 allianceauth-celeryanalytics ==0.0.8
 
 # https://pypi.org/project/allianceauth-corptools-moons/
-allianceauth-corptools-moons == 1.0.1
+allianceauth-corptools-moons == 2.0.0b1
 
 # https://pypi.org/project/allianceauth-auth-stats/
 allianceauth-auth-stats ==0.1.1
@@ -49,7 +49,7 @@ allianceauth-invoices == 0.1.8
 allianceauth-translate-tool @ git+https://github.com/OrangeDrangon/allianceauth-translate-tool.git@add-openrouter-support
 
 # https://pypi.org/project/allianceauth-corptools-pinger/
-allianceauth-corptools-pinger == 0.6.3
+allianceauth-corptools-pinger == 1.0.0b3
 
 # ZKillboard Bot https://pypi.org/project/aa-killtracker/
 aa-killtracker ==1.3.0
