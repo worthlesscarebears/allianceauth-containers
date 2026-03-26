@@ -27,9 +27,9 @@ aa-package-monitor == 2.3.0
 allianceauth-blacklist == 0.1.1
 
 # https://pypi.org/project/allianceauth-discordbot/
-#allianceauth-discordbot == 4.1.0
-allianceauth-discordbot @ git+https://github.com/Solar-Helix-Independent-Transport/allianceauth-discordbot.git
-#allianceauth-discordbot @ git+https://github.com/nullsecurity-australia/allianceauth-discordbot.git@development
+allianceauth-discordbot == 5.0.0
+# allianceauth-discordbot @ git+https://github.com/Solar-Helix-Independent-Transport/allianceauth-discordbot.git
+# allianceauth-discordbot @ git+https://github.com/nullsecurity-australia/allianceauth-discordbot.git@development
 
 # https://pypi.org/project/allianceauth-celeryanalytics/
 allianceauth-celeryanalytics ==0.0.8
@@ -64,7 +64,7 @@ cmStructureRegistry == 0.9951
 cmShoppingList == 0.21
 
 # https://pypi.org/project/allianceauth-georgeforge/
-allianceauth-georgeforge[discord,webhook] == 0.4.5
+allianceauth-georgeforge[discord,webhook] == 0.5.2
 
 django-eveonline-sde == 0.0.1b3
 django-modeltranslation == 0.19.17
