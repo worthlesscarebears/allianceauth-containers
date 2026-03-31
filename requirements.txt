@@ -80,4 +80,4 @@ allianceauth-prometheus-exporter @ git+https://github.com/Solar-Helix-Independen
 # https://pypi.org/project/aa-buybackprogram/
 # aa-buybackprogram == 2.3.3
 # If downgrading please go back to 0017 or stuff is going to be whack
-aa-buybackprogram @ git+https://github.com/worthlesscarebears/allianceauth-buyback-program.git@26fe68794d2858041f9b92a0b9532f5b345ef487
+aa-buybackprogram @ git+https://github.com/worthlesscarebears/allianceauth-buyback-program.git@0e6323986d4c50f252b89bf6b705a342cfb8b298
