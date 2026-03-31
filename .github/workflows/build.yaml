@@ -28,6 +28,7 @@ concurrency:
 jobs:
   docker:
     runs-on: ubuntu-latest
+    environment: build
     steps:
       - name: Normalize owner and repo to lowercase
         id: vars
