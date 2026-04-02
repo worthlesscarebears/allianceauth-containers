@@ -51,10 +51,6 @@ allianceauth-translate-tool @ git+https://github.com/OrangeDrangon/allianceauth-
 # https://pypi.org/project/allianceauth-corptools-pinger/
 allianceauth-corptools-pinger == 1.0.0b3
 
-# ZKillboard Bot https://pypi.org/project/aa-killtracker/
-#depreciated 2026-04-01: replaced with zkillbot from zkill - denny
-#aa-killtracker ==1.4.0
-
 # https://pypi.org/project/aa-secret-santa/#description
 aa-secret-santa == 1.0.1
 
@@ -81,4 +77,4 @@ allianceauth-prometheus-exporter @ git+https://github.com/Solar-Helix-Independen
 # https://pypi.org/project/aa-buybackprogram/
 # aa-buybackprogram == 2.3.3
 # If downgrading please go back to 0017 or stuff is going to be whack
-aa-buybackprogram @ git+https://github.com/worthlesscarebears/allianceauth-buyback-program.git@60fd20bc5a9915e194f854529595831ec2ea84b5
+aa-buybackprogram @ git+https://github.com/worthlesscarebears/allianceauth-buyback-program.git@cb309075f6e56b9286c77b80ffda886cc9a7be51
