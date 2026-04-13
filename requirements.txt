@@ -67,7 +67,7 @@ django-eveonline-sde ==0.0.1b9
 django-modeltranslation == 0.19.17
 
 # https://pypi.org/project/sentry-sdk/
-sentry-sdk == 2.48.0
+sentry-sdk ==2.58.0
 
 # https://github.com/Solar-Helix-Independent-Transport/allianceauth-prom-client/
 prometheus-redis-client == 0.6.0
