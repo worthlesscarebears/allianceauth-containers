@@ -1,4 +1,4 @@
-FROM registry.gitlab.com/allianceauth/allianceauth/auth:v5.4.0@sha256:4f7a6ebf0ea593220fbf38ace1e93f7cb25f7bb72224335e8d05ce48a10f11e7
+FROM registry.gitlab.com/allianceauth/allianceauth/auth:v5.5.0@sha256:164cc0e250b2765953b23abedb7943a0e5a9751370c92f7a78166895c86b15e9
 WORKDIR ${AUTH_HOME}
 
 COPY requirements.txt requirements.txt
