@@ -80,7 +80,7 @@ sentry-sdk ==2.71.0
 # https://pypi.org/project/aa-buybackprogram/
 # aa-buybackprogram == 2.3.3
 # If downgrading please go back to 0017 or stuff is going to be whack
-aa-buybackprogram @ git+https://github.com/worthlesscarebears/allianceauth-buyback-program.git@7bd5fedf27a7bde2ef7f7bffea02311020c8d6e9
+aa-buybackprogram @ git+https://github.com/worthlesscarebears/allianceauth-buyback-program.git@b13797887222670d3e00ce773038e363652ed2ad
 
 # https://pypi.org/project/aa-moonmining/
 aa-moonmining == 3.2.0
