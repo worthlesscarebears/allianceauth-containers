@@ -84,3 +84,6 @@ aa-buybackprogram @ git+https://github.com/worthlesscarebears/allianceauth-buyba
 
 # https://pypi.org/project/aa-moonmining/
 aa-moonmining == 3.2.0
+
+# https://pypi.org/project/aa-moonregistry/0.1.0/
+aa-moonregistry==0.1.0
