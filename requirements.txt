@@ -37,7 +37,7 @@ allianceauth-celeryanalytics ==0.1.1
 allianceauth-corptools-moons ==2.0.1
 
 # https://pypi.org/project/allianceauth-auth-stats/
-allianceauth-auth-stats ==0.1.2
+allianceauth-auth-stats ==1.0.0
 
 # invoices - georgeforge dep
 # https://pypi.org/project/allianceauth-invoices/
