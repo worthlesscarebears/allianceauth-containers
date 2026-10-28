@@ -83,4 +83,4 @@ sentry-sdk ==2.73.0
 aa-buybackprogram @ git+https://github.com/worthlesscarebears/allianceauth-buyback-program.git@b13797887222670d3e00ce773038e363652ed2ad
 
 # https://pypi.org/project/aa-moonregistry/0.1.0/
-aa-moonregistry==0.1.0
+aa-moonregistry==0.3.0
