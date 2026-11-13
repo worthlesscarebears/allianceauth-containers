@@ -63,7 +63,7 @@ cmShoppingList == 0.21
 allianceauth-georgeforge[discord,webhook] ==0.7.1
 
 # GeorgeForge ContractManager
-allianceauth-gf-conman @ git+https://github.com/worthlesscarebears/gf_conman@f12c05eac8dde334dce5d5bdcd20b4d3933d4559
+allianceauth-gf-conman @ git+https://github.com/worthlesscarebears/gf_conman@3804e87cb2619d3028ee756e2f3da54cf07281f8
 
 django-eveonline-sde ==1.0.0
 #django-modeltranslation == 0.19.17 # sde properly pulls this in now
@@ -80,7 +80,7 @@ sentry-sdk ==2.73.0
 # https://pypi.org/project/aa-buybackprogram/
 # aa-buybackprogram == 2.3.3
 # If downgrading please go back to 0017 or stuff is going to be whack
-aa-buybackprogram @ git+https://github.com/worthlesscarebears/allianceauth-buyback-program.git@b13797887222670d3e00ce773038e363652ed2ad
+aa-buybackprogram @ git+https://github.com/worthlesscarebears/allianceauth-buyback-program.git@a12fb76390a3e7581a2a5fc924065c0bbf2fb28b
 
 # https://pypi.org/project/aa-moonregistry/0.1.0/
 aa-moonregistry==0.5.0
