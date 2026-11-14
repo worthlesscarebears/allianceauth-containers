@@ -57,7 +57,7 @@ aa-secret-santa == 1.0.1
 cmStructureRegistry ==1.1.0
 
 # https://github.com/CMBrando/cmShoppingList
-cmShoppingList == 0.21
+cmShoppingList ==0.50
 
 # https://pypi.org/project/allianceauth-georgeforge/
 allianceauth-georgeforge[discord,webhook] ==0.7.1
