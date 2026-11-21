@@ -3,7 +3,7 @@ allianceauth-corptools ==3.5.1
 # allianceauth-corptools @ git+https://github.com/Solar-Helix-Independent-Transport/allianceauth-corp-tools.git@3.0.0b5
 
 # https://pypi.org/project/aa-esi-status/
-aa-esi-status ==4.3.0
+aa-esi-status ==4.3.1
 
 # https://pypi.org/project/aa-top/
 aa-top ==2.2.0
@@ -60,7 +60,7 @@ cmStructureRegistry ==1.1.0
 cmShoppingList ==0.50
 
 # https://pypi.org/project/allianceauth-georgeforge/
-allianceauth-georgeforge[discord,webhook] ==0.7.1
+allianceauth-georgeforge[discord,webhook] ==0.8.0
 
 # GeorgeForge ContractManager
 allianceauth-gf-conman @ git+https://github.com/worthlesscarebears/gf_conman@3804e87cb2619d3028ee756e2f3da54cf07281f8
@@ -69,7 +69,7 @@ django-eveonline-sde ==1.0.0
 #django-modeltranslation == 0.19.17 # sde properly pulls this in now
 
 # https://pypi.org/project/sentry-sdk/
-sentry-sdk ==2.73.0
+sentry-sdk ==2.75.0
 
 # https://github.com/Solar-Helix-Independent-Transport/allianceauth-prom-client/
 # not aav5 compat
