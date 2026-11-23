@@ -60,12 +60,12 @@ cmStructureRegistry ==1.1.0
 cmShoppingList ==0.50
 
 # https://pypi.org/project/allianceauth-georgeforge/
-allianceauth-georgeforge[discord,webhook] ==0.8.2
+allianceauth-georgeforge[discord,webhook] ==0.8.3
 
 # GeorgeForge ContractManager
 allianceauth-gf-conman @ git+https://github.com/worthlesscarebears/gf_conman@3804e87cb2619d3028ee756e2f3da54cf07281f8
 
-django-eveonline-sde ==1.0.0
+django-eveonline-sde ==2.0.0
 #django-modeltranslation == 0.19.17 # sde properly pulls this in now
 
 # https://pypi.org/project/sentry-sdk/
