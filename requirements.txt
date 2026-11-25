@@ -68,7 +68,7 @@ allianceauth-gf-conman @ git+https://github.com/worthlesscarebears/gf_conman@380
 django-eveonline-sde ==1.0.0
 
 # https://pypi.org/project/sentry-sdk/
-sentry-sdk ==2.75.0
+sentry-sdk ==2.77.0
 
 # https://github.com/Solar-Helix-Independent-Transport/allianceauth-prom-client/
 # not aav5 compat
